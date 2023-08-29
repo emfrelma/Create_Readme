@@ -22,12 +22,12 @@ node index is the command used to run the script
 contributions can be added through GITHUB
 
 ## TESTS
-ensure that all sections are completed.  If a license is used, there should be a badge displayed after the title.     Table of contents should be available.  Other requirments as described in the requirement. 
+ensure that all sections are completed.  If a license is used, there should be a badge displayed after the title.     Table of contents should be available.  Other requirments as described in the requirement.   
 
 ## QUESTIONS
-Authors GITHUB is [GITHub](https://github.com/ensure that all sections are completed.  If a license is used, there should be a badge displayed after the title.     Table of contents should be available.  Other requirments as described in the requirement. ) 
+Authors GITHUB is [GITHub](https://github.com/emfrelma) 
 
-Author's email address is emfrelma
+Author's email address is emfrelma@gmail.com.
 
 ## LICENSE
 N/A
